@@ -56,7 +56,7 @@
     #div2 {
         position: relative;
         left: 0;
-        top: -70%;
+        top: -65%;
         left: 50%;
         transform: translateX(-50%);
     }
@@ -64,7 +64,7 @@
     #img-1 {
         position: relative;
         left: 0;
-        margin-top: 42vh;
+        margin-top: 44vh;
         left: 50%;
         transform: translateX(-50%);
 
@@ -73,7 +73,7 @@
     #img-2 {
         position: relative;
         left: 0;
-        margin-top: 44vh;
+        margin-top: 42vh;
         left: 50%;
         transform: translateX(-50%);
     }
